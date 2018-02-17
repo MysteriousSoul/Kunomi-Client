@@ -1,0 +1,14 @@
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\obj\Debug\Interop.WMPLib.dll
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\obj\Debug\KunomiClient.csproj.ResolveComReference.cache
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\bin\Debug\KunomiClient.exe
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\bin\Debug\KunomiClient.pdb
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\bin\Debug\Interop.WMPLib.dll
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\obj\Debug\KunomiClient.csprojResolveAssemblyReference.cache
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\obj\Debug\KunomiClient.Properties.Resources.resources
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\obj\Debug\KunomiClient.csproj.GenerateResource.Cache
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\obj\Debug\KunomiClient.exe
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\obj\Debug\KunomiClient.pdb
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\obj\Debug\KunomiClient.KunomiClient.resources
+C:\Users\fukac\Desktop\Desktop Mar 17\UDP Chat\Kunomi Client\KunomiClient\obj\Debug\KunomiClient.LoginForm.resources

@@ -1,0 +1,15 @@
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Release\Interop.WMPLib.dll
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Release\AxInterop.WMPLib.dll
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Release\SGSclientUDP.csproj.ResolveComReference.cache
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\bin\Release\SGSclient.exe
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\bin\Release\SGSclient.pdb
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\bin\Release\Interop.WMPLib.dll
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\bin\Release\AxInterop.WMPLib.dll
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Release\SGSclient.Player.resources
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Release\SGSclient.SGSClient.resources
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Release\SGSclient.LoginForm.resources
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Release\SGSclient.Properties.Resources.resources
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Release\SGSclientUDP.csproj.GenerateResource.Cache
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Release\SGSclient.exe
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Release\SGSclient.pdb
+C:\Users\fukac\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Release\SGSclientUDP.csprojResolveAssemblyReference.cache

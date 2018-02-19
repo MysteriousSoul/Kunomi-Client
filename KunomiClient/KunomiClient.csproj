@@ -66,11 +66,11 @@
     <Compile Include="CustomClass.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="KunomiClientEntry.cs">
+    <Compile Include="KunomiClientForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="KunomiClientEntry.Designer.cs">
-      <DependentUpon>KunomiClientEntry.cs</DependentUpon>
+    <Compile Include="KunomiClientForm.Designer.cs">
+      <DependentUpon>KunomiClientForm.cs</DependentUpon>
     </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
@@ -80,9 +80,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="KunomiClientEntry.resx">
+    <EmbeddedResource Include="KunomiClientForm.resx">
       <SubType>Designer</SubType>
-      <DependentUpon>KunomiClientEntry.cs</DependentUpon>
+      <DependentUpon>KunomiClientForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <SubType>Designer</SubType>

@@ -44,4 +44,9 @@ $RECYCLE.BIN/
 .AppleDesktop
 Network Trash Folder
 Temporary Items
+KunomiClient/bin
+KunomiClient/bin/Debug
+KunomiClient/obj
+KunomiClient/obj/Debug
 .apdisk
+

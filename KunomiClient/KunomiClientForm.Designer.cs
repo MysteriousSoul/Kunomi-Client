@@ -344,7 +344,7 @@ namespace KunomiClient {
             this.MinimumSize = new System.Drawing.Size(720, 480);
             this.Name = "SGSClient";
             this.Text = "Kunomi";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.SGSClient_FormClosing);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Kunomi_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.users.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.mediaPlayer)).EndInit();
